@@ -16,5 +16,10 @@
     "XHR2",
     "responseType"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~1.11",
+    "mocha": "~2.1.0",
+    "chai": "~1.10.0"
+  }
 }
