@@ -1,3 +1,7 @@
+//     jQuery Ajax Native Plugin
+
+//     (c) 2015 Tarik Zakaria Benmerar, Acigna Inc.
+//      jQuery Ajax Native Plugin may be freely distributed under the MIT license.
 (function (root, factory) {
     if (typeof define === 'function' && define.amd) {
         // AMD. Register as an anonymous module.
