@@ -6,7 +6,7 @@ See:
 https://dvcs.w3.org/hg/xhr/raw-file/tip/Overview.html#the-response-attribute
 http://www.html5rocks.com/en/tutorials/file/xhr2/?redirect_from_locale=fr
 
-Using this mechanism provides better performances compared to a javascript way of conversion. For example, converting an ArrayBuffer for example, leads to a heavy loop (See: http://updates.html5rocks.com/2012/06/How-to-convert-ArrayBuffer-to-and-from-String).
+Using this mechanism provides better performances compared to a javascript way of conversion. For example, converting an ArrayBuffer, leads to a heavy loop (See: http://updates.html5rocks.com/2012/06/How-to-convert-ArrayBuffer-to-and-from-String).
 
 This jQuery Plugin adds XHR2 responseType support, that is currently lacking support in jQuery.ajax and probably remains
 in the future (See the last comments on this [pull request](https://github.com/jquery/jquery/pull/1525)).
