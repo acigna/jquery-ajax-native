@@ -14,7 +14,7 @@ in the future (See the last comments on this [pull request](https://github.com/j
 Please, take a look at XHR2 current support [here](http://caniuse.com/#feat=xhr2) for more precision on the support status.
 
 # Usage
-The plugin provides two means to get a native response using jQuery.ajax as follows.
+The plugin provides two means to get a native ajax response as follows.
 
 ## Using jQuery.ajax
 The Plugin provides the native data type for the ajax method that you should use to have a native response. You should also precise the responseType on xhrFields to precise the expected native data type. This usage method allows more customization but
