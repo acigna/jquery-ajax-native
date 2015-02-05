@@ -24,7 +24,7 @@
     "mocha": "~2.1.0",
     "chai": "~1.10.0"
   },
-  "repository: {
+  "repository": {
     "type": "git",
     "url": "git://github.com/acigna/jquery-ajax-native"
   }
