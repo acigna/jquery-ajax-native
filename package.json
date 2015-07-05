@@ -1,0 +1,30 @@
+{
+  "name": "jquery-ajax-native",
+  "version": "1.0.0",
+  "description": "jQuery Plugin that adds XHR2 responseType support",
+  "main": "src/jquery-ajax-native.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acigna/jquery-ajax-native"
+  },
+  "keywords": [
+    "jquery",
+    "ajax",
+    "XHR2",
+    "responseType"
+  ],
+  "dependencies": {
+    "jquery": "~1.11"
+  },
+  "author": "Tarik Zakaria Benmerar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acigna/jquery-ajax-native/issues"
+  }
+}
