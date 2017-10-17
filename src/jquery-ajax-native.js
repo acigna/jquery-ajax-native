@@ -153,5 +153,18 @@
             },
             success: callback
         });
-    }
+    };
+
+    //$.getBlob wrapper
+    $.getBlob = function ( url, callback ) {
+        return $.ajax({
+            dataType: 'native',
+            url: url,
+            xhrFields: {
+                responseType: 'blob'
+            },
+            success: callback
+        });
+    };
+
 }));
