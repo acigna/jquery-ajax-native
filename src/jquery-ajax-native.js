@@ -167,4 +167,7 @@
         });
     };
 
+    //Return the jQuery Object
+    return $;
+
 }));
