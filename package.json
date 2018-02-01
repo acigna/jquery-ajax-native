@@ -1,6 +1,6 @@
 {
   "name": "jquery-ajax-native",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "jQuery Plugin that adds XHR2 responseType support",
   "main": "src/jquery-ajax-native.js",
   "directories": {
