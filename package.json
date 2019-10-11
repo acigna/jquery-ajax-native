@@ -1,6 +1,6 @@
 {
   "name": "jquery-ajax-native",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "description": "jQuery Plugin that adds XHR2 responseType support",
   "main": "src/jquery-ajax-native.js",
   "directories": {
@@ -19,6 +19,10 @@
     "XHR2",
     "responseType"
   ],
+  "devDependencies": {
+    "mocha": "~2.1.0",
+    "chai": "~1.10.0"
+  },
   "dependencies": {
     "jquery": "~3"
   },
