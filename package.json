@@ -20,8 +20,8 @@
     "responseType"
   ],
   "devDependencies": {
-    "mocha": "~2.1.0",
-    "chai": "~1.10.0"
+    "chai": "~1.10.0",
+    "mocha": "^6.2.1"
   },
   "dependencies": {
     "jquery": "~3"
